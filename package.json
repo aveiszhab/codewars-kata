@@ -1,0 +1,14 @@
+{
+  "name": "codewars-kata",
+  "version": "1.0.0",
+  "description": "Codewars kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --watchAll" 
+  },
+  "author": "aveiszha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
